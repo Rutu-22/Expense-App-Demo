@@ -1,0 +1,18 @@
+{
+  "data": {
+    "greetings": "Hello there!",
+    "hindi": "you have chosed hindi Language!",
+    "english": "you have chosed English Language!",
+    "Show-status":"Show Status",
+    "Add-Expense":"Add Expense",
+    "Show-Expense-Types":"Show Expense Types",
+    "Id":"Id",
+    "Expense-Type":"Expense Type",
+    "Status":"Status",
+    "Comments":"Comments",
+    "TotalAmount":"Total Amount",
+    "PaidAmount":"Paid Amount",
+    "Pending":"Pending",
+    "Options":"Options"
+  }
+}

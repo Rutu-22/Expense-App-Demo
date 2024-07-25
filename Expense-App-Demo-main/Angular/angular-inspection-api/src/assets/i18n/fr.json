@@ -1,0 +1,18 @@
+{
+  "data": {
+    "greetings": "नमस्ते!",
+    "english": "आपने अंग्रेज़ी भाषा चुनी है!",
+    "hindi": "आपने हिंदी भाषा चुनी है!",
+    "Show-status": "स्टेटस दाखवा",
+    "Add-Expense": "खर्चाची नोंद करा",
+    "Show-Expense-Types": "खर्चाचा प्रकार",
+    "Id": "क्र",
+    "Expense-Type": "खर्चाचा प्रकार",
+    "Status": "स्टेटस",
+    "Comments": "कमेंट",
+    "TotalAmount": "एकूण खर्च",
+    "PaidAmount": "दिलेली रक्कम",
+    "Pending": "बाकी",
+    "Options": "बदल"
+  }
+}
