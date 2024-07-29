@@ -23,7 +23,7 @@ Clone the repository:
 
 Copy code
 
-git clone https://github.com/Avishkar-Kabadi/Expense-app.git
+
 
 Frontend Setup:
 Copy code
